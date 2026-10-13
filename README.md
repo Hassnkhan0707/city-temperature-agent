@@ -27,4 +27,4 @@ Loop: Think -> Act -> Observe -> Answer
 Tool-use accuracy on a small test set: XX% (replace with your result)
 
 ## Author
-Your name, university
+Hassan khan, Islamia collage peshawar
